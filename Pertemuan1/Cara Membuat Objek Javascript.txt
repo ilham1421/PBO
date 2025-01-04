@@ -1,0 +1,6 @@
+Cara Membuat Objek Javascript
+
+1. Object Literal
+2. Function Declaratioan 
+3. Object.Create ()
+4. Contructor Function (Keyword new)
