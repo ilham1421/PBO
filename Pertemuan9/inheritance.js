@@ -39,7 +39,7 @@ class Kue {
   deskripsi(rasa) {
     console.log(`kue ${this.nama} rasanya ${rasa}`);
   }
-  infoBahan(bahan) {
+  infoBahan() {
     console.log(
       `kue ${this.nama} terbuat dari bahan dasar tepung, gula, dan telur`
     );
